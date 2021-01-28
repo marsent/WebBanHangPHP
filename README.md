@@ -11,6 +11,10 @@
 ![Alt text](https://github.com/marsent/WebBanHangPHP/blob/main/Screen%20Shot/TrangChu2.jpg?raw=true?raw=true "Trang Chủ")
 
 ## Web account
+
 username: admin
+
 password: anh12345
+
 role: admin
+
