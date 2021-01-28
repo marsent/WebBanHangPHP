@@ -19,7 +19,7 @@ if ($usertype!=1) {
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>SB Admin 2 - Tables</title>
+    <title>Admin</title>
 
     <!-- Custom fonts for this template -->
     <link href="<?php echo $server ?>/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css" />
